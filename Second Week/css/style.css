@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(14, 20, 3);
+}
+header {
+    background-color: blueviolet;
+}
+nav {
+    background-color: lightblue;
+}
+article {
+    background-color: chartreuse;
+}
+aside {
+    background-color: crimson;
+}
+footer {
+    background-color: yellow;
+}
