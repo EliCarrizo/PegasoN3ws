@@ -2,17 +2,31 @@ body {
     background-color: rgb(14, 20, 3);
 }
 header {
-    background-color: blueviolet;
+    background-color: red;
 }
 nav {
-    background-color: lightblue;
+    background-color: red;
 }
+div {
+    width: 300px;
+    border: 50px solid white;
+    padding: 55px;
+    margin: 30px;
+  }
 article {
-    background-color: chartreuse;
+    background-color: white;
 }
 aside {
-    background-color: crimson;
+    width: 40%;
+    padding-left: 20px;
+   margin float:left;
+    float: right;
+    font-style: italic;
+    background-color: white;
+  }
+aside {
+    background-color: white;
 }
 footer {
-    background-color: yellow;
+    background-color: red;
 }
