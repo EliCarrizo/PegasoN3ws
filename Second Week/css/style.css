@@ -12,13 +12,17 @@ nav {
 }
 
 .container {
-    width: 100%;
+    width: 65%;
     height: 100%;
 }
 
 article {
     float: left;
     width: 70%;
+    padding-left: 95px;
+    padding-right: 25px;
+    padding-top: 30px;
+    margin:10px,10px,10px,10px;
 }
 
 aside {
@@ -28,7 +32,7 @@ aside {
 
 h1 {
     width: 70%;
-    font-family:sans-serif;
+    font-family:helvetica;
     font-size: 50px;
     padding: 50px;
 }
@@ -50,7 +54,9 @@ time {
 }
 
 .image-bitcoin {
-    text-align: center;
+    padding: 53px;
+    padding-bottom: 10px;
+    padding-top: 35px;
     }
 
 .subtitle-1 {
@@ -58,4 +64,44 @@ time {
     color: grey;
     list-style: none;
     margin-left: 50px;
+}
+h4 {
+    color: grey;
+    padding-left: 52px;
+    padding-bottom: 3ex;
+}
+.parag{
+    color: black;
+    padding-left: 52px;
+}
+.parag-1 {
+    padding-left: 52px;
+}
+h3{
+    color: black;
+    font-size: 25px;
+    padding-left: 52px;
+    padding-top: 15px;
+}
+
+ .image-antz {
+    width: 125px;
+}
+
+.image-water {
+    width: 125px;
+}
+.man-cash {
+    width: 125px;
+}
+.plastic {
+    width: 125px;;
+}
+
+.link {
+    width: 90%;
+}
+.link-1 {
+    padding-left: 58%;
+    padding-top: 1%;
 }
