@@ -33,7 +33,7 @@ aside {
 h1 {
     width: 70%;
     font-family:helvetica;
-    font-size: 50px;
+    font-size: 30px;
     padding: 50px;
 }
 
@@ -86,16 +86,20 @@ h3{
 
  .image-antz {
     width: 125px;
+    padding-left: 52px;
 }
 
 .image-water {
     width: 125px;
+    padding-left: 52px;
 }
 .man-cash {
     width: 125px;
+    padding-left: 52px;
 }
 .plastic {
-    width: 125px;;
+    width: 125px;
+    padding-left: 52px;
 }
 
 .link {
@@ -104,4 +108,7 @@ h3{
 .link-1 {
     padding-left: 58%;
     padding-top: 1%;
+}
+.high-bitcoin {
+    padding-left: 52px;
 }
