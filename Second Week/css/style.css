@@ -27,7 +27,7 @@ article {
 
 aside {
     float: right;
-    width: 30%;
+    width: 35%;
 }
 
 h1 {
@@ -72,10 +72,12 @@ h4 {
 }
 .parag{
     color: black;
+    font-family:helvetica;
     padding-left: 52px;
 }
 .parag-1 {
     padding-left: 52px;
+    font-family:helvetica;
 }
 h3{
     color: black;
@@ -83,32 +85,31 @@ h3{
     padding-left: 52px;
     padding-top: 15px;
 }
-
- .image-antz {
-    width: 125px;
-    padding-left: 52px;
+.list-link {
+    width: 100%;
+    height: 100%;
 }
 
-.image-water {
-    width: 125px;
-    padding-left: 52px;
-}
-.man-cash {
-    width: 125px;
-    padding-left: 52px;
-}
-.plastic {
-    width: 125px;
+.img-link {
+    width: 40%;
     padding-left: 52px;
 }
 
 .link {
-    width: 90%;
 }
+
 .link-1 {
     padding-left: 58%;
     padding-top: 1%;
 }
-.high-bitcoin {
+
+.text {
     padding-left: 52px;
+    font-family:helvetica;
+}
+
+.dif-bitcoin {
+    width: 700px;
+    padding-top: 20px;
+    padding-bottom: 10px;
 }
