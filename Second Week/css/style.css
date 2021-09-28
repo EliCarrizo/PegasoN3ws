@@ -107,6 +107,14 @@ h3{
     padding-left: 52px;
     font-family:helvetica;
 }
+.textn {
+    margin-top: 10px;
+    font-size: 18px;
+    font-family: georgia;
+    width: 45%;
+    padding-left: 55px;
+    text-align: justify;
+}
 
 .dif-bitcoin {
     width: 700px;
