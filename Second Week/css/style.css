@@ -2,16 +2,23 @@ body {
     width: 100%;
     height: 100%;
     background-color: white;
-    margin: 10%;
-    padding-left: 59px;
+    padding-left: 25px;
 }
 
 header {
-    background-color: red;
-    margin:5%;
+    display: block;
 }
+
 nav {
-    background-color: red;
+    margin: 10px;
+}
+
+.behind-name-diary {
+    padding-left: 550px;
+    color: grey;
+}
+.diary-name {
+    padding-left: 550px;
 }
 
 .container {
@@ -97,6 +104,9 @@ h3{
     width: 100%;
     height: 100%;
 }
+.link-subscribe {
+    padding-left: 950px;
+}
 
 .img-link {
     width: 40%;
@@ -107,12 +117,15 @@ h3{
     padding-left: 45%;
 }
 
+.form-sing-in {
+    padding-left: 950px;
+}
 .time-notice {
     color: grey;
 }
 
 .sector {
-    padding: 10px,10px,10px,0px;
+    padding: 
     float: left;
 }
 
